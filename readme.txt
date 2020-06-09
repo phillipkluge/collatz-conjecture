@@ -1,4 +1,4 @@
-Collatz.m will show you the Collatz sequence for the specified whole number, it will then print a graph that will display the results.
+Collatz.m will show you the Collatz Sequence for the specified whole number, it will then print a graph that will display the results.
 
 If you are unfamiliar with the 'Collatz Conjecture,' the wikipedia link goes into depth about what it is, and a numberphile video explains it pretty well too:
 
