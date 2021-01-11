@@ -5,4 +5,6 @@ If you are unfamiliar with the 'Collatz Conjecture,' the wikipedia link goes int
 Wikipedia: https://en.wikipedia.org/wiki/Collatz_conjecture
 Numberphile Video: https://www.youtube.com/watch?v=5mFpVDpKX70
 
+(I recommend trying the number 63728127; it produces a very interesting graph)
+
 (Please run the .m file in MATLAB (anything on or past version 2019a to avoid compatibility issues.))
